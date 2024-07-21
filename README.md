@@ -1,0 +1,1 @@
+A snake video game where the player controls a snake that moves around a confined space, usually a rectangular grid.The objective is to eat food items that appear randomly on the screen, which causes the snake to grow longer.
